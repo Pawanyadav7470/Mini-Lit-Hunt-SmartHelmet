@@ -19,6 +19,5 @@ The goal is to practice **LaTeX writing, BibTeX reference management, Python cod
 ```bash
 pdflatex main.tex
 bibtex main
-pdflatex main.tex
-pdflatex main.tex
+
 
