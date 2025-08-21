@@ -1,0 +1,6 @@
+Year,Accidents_No_Helmet,YoY_Change,YoY_%,3yr_Rolling_Avg,Is_Peak,Is_Trough
+2020,1200,,,1200.0,True,False
+2021,1100,-100.0,-8.333333333333337,1150.0,False,False
+2022,950,-150.0,-13.636363636363635,1083.33,False,False
+2023,800,-150.0,-15.789473684210531,950.0,False,False
+2024,700,-100.0,-12.5,816.67,False,True
